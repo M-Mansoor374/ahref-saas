@@ -1,0 +1,8 @@
+# Frontend specific gitignore
+node_modules/
+/.pnp
+.pnp.js
+/build
+.env
+*.log
+

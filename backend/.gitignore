@@ -1,0 +1,6 @@
+# Backend specific gitignore
+node_modules/
+.env
+dist/
+*.log
+
